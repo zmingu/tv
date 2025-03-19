@@ -1,4 +1,4 @@
-收集自用IPTV源，供家里老人观看。
+收集自用IPTV源，供家里老人观看，主要是IPV4源。
 
 电视直播源接口：
 https://github.moeyy.xyz/https://github.com/zmingu/tv/blob/main/tv.txt
